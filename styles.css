@@ -111,16 +111,16 @@ nav li::before{
 }
 
 footer{
-  height: 1.5rem;
-  width: 100%;
+  height: 5rem;
+  width: 5rem ;
   position: center;
   overflow: hide;
   display: flex;
   list-style: none;
 }
 #contact img{
-  max-width: 100%;
-  height: auto;
+  width: 100%;
+  height: 2rem;
   display: block;
   border:2px solid #08BFFA;
   border-radius: 50%;
@@ -137,8 +137,8 @@ footer{
 }
 footer ul{
   display: inline-block;
-  width: 100%;
-  height:2rem;
+  width: 4rem;
+  height:4rem;
   position: center;
 }
 footer a{
