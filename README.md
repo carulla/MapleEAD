@@ -3,7 +3,7 @@
 
 👾Hey everyone! I'm Gabriel Carulla, an English and Robotics Teacher for kids and teens that is currently learning to code and developing a bunch of projects in the field of education.📚
 
-Access my Personal Porfolio Page to checkout some of my projects such as:
+Access my www.carulla.github.io to checkout some of my projects such as:
 
 1. ### www.docedeler.com -
 A website where me and my girlfriend (who's also an amazing teacher and book writer) are constatly updating with games and lesson plans to help teachers and parents teaching literacy and developing their children's reading, writing and speaking skills. 
