@@ -238,22 +238,24 @@ a{
 
 }
 @media only screen and (orientation: portrait){
-  h1{
-    height: 25%;
-    font-size: 1.0rem;
-  }
+  
   #projects p{
     width: 100%;
+    margin: 0;
+  }
+  p{
+    width: 100%;
+    margin: 0;
   }
   #projects img{
     width: 400px;
     height: auto;
   }
  #title{
-    font-size: 2rem;
-    width: 60%;
+    font-size: 2.5rem;
+    width: 400px;
   }
   nav a{
-    font-size: 1.0rem;
+    font-size: 2.5rem;
   }
 }
